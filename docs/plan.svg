@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="1710" viewBox="0 0 1900 1710" role="img" aria-labelledby="title desc">
+  <title id="title">Обмерный план квартиры, вид сверху</title>
+  <desc id="desc">Весь план квартиры в чёрно-белом стиле обмерного чертежа. Балкон сверху, зал с кухней слева, спальня справа, ванная справа внизу. Главный вход внизу между кухней и ванной. Вход в спальню из кухни, вход в ванную через левую стену ванной. Подписанные размеры в сантиметрах, неизвестные привязки пунктиром.</desc>
+  <style>
+    text { font-family: Arial, Helvetica, sans-serif; fill: #111; }
+    .heading { font-size: 42px; font-weight: 400; }
+    .room { font-size: 26px; font-weight: 600; text-anchor: middle; }
+    .room-sub { font-size: 16px; text-anchor: middle; }
+    .note { font-size: 16px; }
+    .small-note { font-size: 13px; }
+    .dimension-text { font-size: 17px; text-anchor: middle; }
+    .wall { fill: none; stroke: #111; stroke-width: 4; stroke-linecap: square; stroke-linejoin: miter; }
+    .window { fill: none; stroke: #111; stroke-width: 1.8; }
+    .dimension { fill: none; stroke: #111; stroke-width: 1.45; }
+    .guide { fill: none; stroke: #111; stroke-width: 1.1; stroke-dasharray: 6 5; }
+    .uncertain { fill: none; stroke: #111; stroke-width: 2.2; stroke-dasharray: 7 5; }
+    .arrow { fill: #111; }
+  </style>
+  <rect width="1900" height="1710" fill="#fff"/>
+  <text x="95" y="65" class="heading">ПЛАН КВАРТИРЫ СВЕРХУ</text>
+  <text x="1410" y="63" class="note" style="font-size:23px">Размеры в сантиметрах</text>
+  <g transform="translate(270 300) scale(1.55)">
+<rect class="window" x="0" y="-92" width="616" height="76"/>
+<text class="room-sub" x="308" y="-64">БАЛКОН · 8,05 м²</text>
+<text class="small-note" x="158.25" y="-31" text-anchor="middle">проём ≈176,5</text>
+<text class="small-note" x="458.9" y="-31" text-anchor="middle">проём ≈176,8</text>
+<path class="wall" d="M0 0 H70 M246.5 0 H305 M320 0 H370.5 M547.3 0 H616"/>
+<path class="window" d="M70 -4 H246.5 M70 4 H246.5 M370.5 -4 H547.3 M370.5 4 H547.3"/>
+<text class="small-note" x="35" y="25" text-anchor="middle">70</text>
+<text class="small-note" x="276" y="25" text-anchor="middle">58,5</text>
+<text class="small-note" x="345" y="25" text-anchor="middle">50,5</text>
+<text class="small-note" x="581" y="25" text-anchor="middle">68,7</text>
+<line class="guide" x1="0" y1="-154" x2="0" y2="-106"/>
+<line class="guide" x1="305" y1="-154" x2="305" y2="-106"/>
+<line class="guide" x1="320" y1="-154" x2="320" y2="-106"/>
+<line class="guide" x1="616" y1="-154" x2="616" y2="-106"/>
+<line class="dimension" x1="0" y1="-128" x2="305" y2="-128"/>
+<path class="arrow" d="M0 -128 L11 -133 V-123 Z M305 -128 L294 -133 V-123 Z"/>
+<text class="dimension-text" x="152.5" y="-136" style="font-size:17px">305</text>
+<line class="dimension" x1="320" y1="-128" x2="616" y2="-128"/>
+<path class="arrow" d="M320 -128 L331 -133 V-123 Z M616 -128 L605 -133 V-123 Z"/>
+<text class="dimension-text" x="468" y="-136" style="font-size:17px">296</text>
+<path class="wall" d="M0 0 V770.5 M305 0 V426.5 M0 770.5 H337 M445 770.5 H457"/>
+<path class="uncertain" d="M305 426.5 H320 M305 426.5 V440"/>
+<text class="room" x="152" y="212">ЗАЛ + КУХНЯ</text>
+<text class="room-sub" x="152" y="235">28,26 м² по застройщику</text>
+<text class="note" x="111" y="573" text-anchor="middle">КУХОННАЯ ЗОНА</text>
+<text class="note" x="365" y="714" text-anchor="middle">ВХОД В КВАРТИРУ</text>
+<text class="small-note" x="388" y="751" text-anchor="middle">ширина ?</text>
+<line class="guide" x1="-45" y1="0" x2="0" y2="0"/>
+<line class="guide" x1="-45" y1="552" x2="0" y2="552"/>
+<line class="guide" x1="-112" y1="770.5" x2="0" y2="770.5"/>
+<line class="dimension" x1="-64" y1="0" x2="-64" y2="552"/>
+<path class="arrow" d="M-64 0 L-69 11 H-59 Z M-64 552 L-69 541 H-59 Z"/>
+<text class="dimension-text" transform="translate(-73 276) rotate(-90)" style="font-size:17px">552</text>
+<line class="dimension" x1="-105" y1="0" x2="-105" y2="770.5"/>
+<path class="arrow" d="M-105 0 L-110 11 H-100 Z M-105 770.5 L-110 759.5 H-100 Z"/>
+<text class="dimension-text" transform="translate(-114 385.25) rotate(-90)" style="font-size:15px">770,5*</text>
+<line class="dimension" x1="278" y1="0" x2="278" y2="426.5"/>
+<path class="arrow" d="M278 0 L273 11 H283 Z M278 426.5 L273 415.5 H283 Z"/>
+<text class="dimension-text" transform="translate(269 213.25) rotate(-90)" style="font-size:15px">426,5</text>
+<line class="guide" x1="0" y1="770.5" x2="0" y2="840"/>
+<line class="guide" x1="457" y1="770.5" x2="457" y2="840"/>
+<line class="dimension" x1="0" y1="816" x2="457" y2="816"/>
+<path class="arrow" d="M0 816 L11 811 V821 Z M457 816 L446 811 V821 Z"/>
+<text class="dimension-text" x="228.5" y="808" style="font-size:17px">457</text>
+<text class="small-note" x="166" y="752" text-anchor="middle">участок стены 337</text>
+<path class="wall" d="M0 534.2 H30.7 V546.2 H0"/>
+<path class="uncertain" d="M30.7 546.2 V764.5"/>
+<line class="guide" x1="0" y1="522" x2="0" y2="534.2"/>
+<line class="guide" x1="30.7" y1="522" x2="30.7" y2="534.2"/>
+<line class="dimension" x1="0" y1="520" x2="30.7" y2="520"/>
+<path class="arrow" d="M0 520 L11 515 V525 Z M30.7 520 L19.7 515 V525 Z"/>
+<text class="dimension-text" x="15.35" y="512" style="font-size:12px">30,7</text>
+<line class="guide" x1="30.7" y1="546.2" x2="76" y2="546.2"/>
+<line class="guide" x1="30.7" y1="764.5" x2="76" y2="764.5"/>
+<line class="dimension" x1="69" y1="546.2" x2="69" y2="764.5"/>
+<path class="arrow" d="M69 546.2 L64 557.2 H74 Z M69 764.5 L64 753.5 H74 Z"/>
+<text class="dimension-text" transform="translate(92 655.35) rotate(-90)" style="font-size:15px">218,3</text>
+<text class="note" x="160" y="638" text-anchor="middle">НИША КУХНИ</text>
+<text class="small-note" x="160" y="660" text-anchor="middle">высота 267,5</text>
+<path class="wall" d="M320 0 V426 M616 0 V505.5 M441.5 426 V505.5"/>
+<path class="uncertain" d="M441.5 505.5 H616"/>
+<text class="room" x="466" y="205">СПАЛЬНЯ</text>
+<text class="room-sub" x="466" y="228">14,51 м² по застройщику</text>
+<line class="dimension" x1="343" y1="0" x2="343" y2="426"/>
+<path class="arrow" d="M343 0 L338 11 H348 Z M343 426 L338 415 H348 Z"/>
+<text class="dimension-text" transform="translate(366 213) rotate(-90)" style="font-size:15px">426</text>
+<line class="guide" x1="616" y1="0" x2="656" y2="0"/>
+<line class="guide" x1="616" y1="505.5" x2="656" y2="505.5"/>
+<line class="dimension" x1="648" y1="0" x2="648" y2="505.5"/>
+<path class="arrow" d="M648 0 L643 11 H653 Z M648 505.5 L643 494.5 H653 Z"/>
+<text class="dimension-text" transform="translate(671 252.75) rotate(-90)" style="font-size:16px">505,5</text>
+<line class="guide" x1="320" y1="398" x2="320" y2="426"/>
+<line class="guide" x1="441.5" y1="398" x2="441.5" y2="426"/>
+<line class="dimension" x1="320" y1="395" x2="441.5" y2="395"/>
+<path class="arrow" d="M320 395 L331 390 V400 Z M441.5 395 L430.5 390 V400 Z"/>
+<text class="dimension-text" x="380.75" y="387" style="font-size:15px">121,5</text>
+<text class="small-note" x="379" y="456" text-anchor="middle">проход из кухни</text>
+<text class="note" x="528" y="454" text-anchor="middle">НИША</text>
+<line class="dimension" x1="451" y1="490" x2="610" y2="490"/>
+<path class="arrow" d="M451 490 L462 485 V495 Z M610 490 L599 485 V495 Z"/>
+<text class="dimension-text" x="530.5" y="482" style="font-size:14px">175,5*</text>
+<path class="wall" d="M457 516 H638 V747.5 H559.5 V770.5 H457 V682 M457 516 V584.5"/>
+<text class="room" x="548" y="615" style="font-size:21px">ВАННАЯ</text>
+<text class="room-sub" x="548" y="638" style="font-size:12px">4,45 м² по застройщику</text>
+<text class="small-note" x="390" y="641" text-anchor="middle">ВХОД В ВАННУЮ</text>
+<text class="small-note" x="390" y="658" text-anchor="middle">≈97,5</text>
+<line class="guide" x1="457" y1="516" x2="457" y2="547"/>
+<line class="guide" x1="638" y1="516" x2="638" y2="547"/>
+<line class="dimension" x1="457" y1="542" x2="638" y2="542"/>
+<path class="arrow" d="M457 542 L468 537 V547 Z M638 542 L627 537 V547 Z"/>
+<text class="dimension-text" x="547.5" y="534" style="font-size:15px">181</text>
+<line class="guide" x1="638" y1="516" x2="670" y2="516"/>
+<line class="guide" x1="638" y1="747.5" x2="670" y2="747.5"/>
+<line class="dimension" x1="662" y1="516" x2="662" y2="747.5"/>
+<path class="arrow" d="M662 516 L657 527 H667 Z M662 747.5 L657 736.5 H667 Z"/>
+<text class="dimension-text" transform="translate(685 631.75) rotate(-90)" style="font-size:14px">231,5</text>
+<line class="guide" x1="457" y1="770.5" x2="457" y2="804"/>
+<line class="guide" x1="559.5" y1="770.5" x2="559.5" y2="804"/>
+<line class="guide" x1="638" y1="747.5" x2="638" y2="804"/>
+<line class="dimension" x1="457" y1="790" x2="559.5" y2="790"/>
+<path class="arrow" d="M457 790 L468 785 V795 Z M559.5 790 L548.5 785 V795 Z"/>
+<text class="dimension-text" x="508.25" y="782" style="font-size:14px">102,5</text>
+<line class="dimension" x1="559.5" y1="790" x2="638" y2="790"/>
+<path class="arrow" d="M559.5 790 L570.5 785 V795 Z M638 790 L627 785 V795 Z"/>
+<text class="dimension-text" x="598.75" y="782" style="font-size:13px">77,5</text>
+<text class="small-note" x="535" y="741" text-anchor="middle">23,5</text>
+<text class="small-note" x="477" y="566">68,5</text>
+<text class="small-note" x="477" y="740">88,5</text>
+</g>
+<text class="note" x="1400" y="326" style="font-size:29px">КУХОННАЯ НИША</text>
+<text class="note" x="1400" y="382" style="font-size:21px">Слева у входа, как в модели Blender.</text>
+<text class="note" x="1400" y="420" style="font-size:22px">Вдоль стены: 218,3 см.</text>
+<text class="note" x="1400" y="458" style="font-size:22px">Выступ внутрь кухни: 30,7 см.</text>
+<text class="note" x="1400" y="496" style="font-size:22px">Высота под балкой: 267,5 см.</text>
+<text class="note" x="1400" y="550" style="font-size:21px">Место вдоль стены - предварительное.</text>
+<text class="note" x="1400" y="597" style="font-size:20px">3370 на чертеже: если мм, то 337 см.</text>
+<text class="note" x="1400" y="630" style="font-size:20px">2675 вдоль плана - нужен ответ,</text>
+<text class="note" x="1400" y="659" style="font-size:20px">длина ли это по полу.</text>
+<text class="note" x="1400" y="755" style="font-size:29px">НИША СПАЛЬНИ</text>
+<text class="note" x="1400" y="806" style="font-size:23px">Задняя стенка: 175,5 см.</text>
+<text class="note" x="1400" y="846" style="font-size:23px">Глубина по эскизу: 93,5 см*.</text>
+<text class="note" x="1400" y="886" style="font-size:23px">Проход из кухни: 121,5 см.</text>
+<text class="note" x="1400" y="957" style="font-size:21px">* Разница длинных стен даёт 79,5 см.</text>
+<text class="note" x="1400" y="990" style="font-size:21px">Положение задней стенки нужно уточнить.</text>
+<text class="note" x="1400" y="1097" style="font-size:29px">ВАННАЯ</text>
+<text class="note" x="1400" y="1144" style="font-size:23px">Вход через левую стену.</text>
+<text class="note" x="1400" y="1184" style="font-size:23px">Справа внизу уступ: 23,5 и 77,5 см.</text>
+<text class="note" x="1400" y="1224" style="font-size:23px">Высота: 306 см. Допуск: ±1 см.</text>
+<line class="dimension" x1="1390" y1="1327" x2="1840" y2="1327"/>
+<text class="note" x="1400" y="1384" style="font-size:22px">Сплошная линия - стена.</text>
+<text class="note" x="1400" y="1423" style="font-size:22px">Разрыв - вход или балконная дверь.</text>
+<text class="note" x="1400" y="1462" style="font-size:21px">Пунктир - край балки или примерная привязка.</text>
+<text class="note" x="95" y="1644" style="font-size:22px">* Общая длина зала 770,5 см и глубина ниши спальни требуют проверки точек отсчёта.</text>
+<text class="note" x="95" y="1680" style="font-size:22px">Размеры ванной: принят допуск ±1 см. Проёмы с ≈ вычислены по участкам стены.</text>
+</svg>

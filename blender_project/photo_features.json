@@ -1,0 +1,19 @@
+{
+  "note": "Photo reconstruction. cm in plan coordinates, z upwards. Unmeasured values are visual approximations, excluded from purchase quantities.",
+  "windows": [
+    {"id": "LK balcony", "room": "living_kitchen", "x_min": 70, "x_max": 246.5, "y": 0, "height": 265, "transom_z": 220, "split_fraction": 0.49, "active_leaf": "left", "source": "ЗалСРазмерами.jpg; ЗалИСпальняРазмерыПроход.jpg", "certainty": "width derived 176.5; height, profile sizes and division estimated from photos"},
+    {"id": "BR balcony", "room": "bedroom", "x_min": 370.5, "x_max": 547.3, "y": 0, "height": 265, "transom_z": 220, "split_fraction": 0.52, "active_leaf": "right", "source": "спальнябезразмеров.jpg; Спальнясразмерами.jpg; СпальняБезРазмеровВход.jpg", "certainty": "width derived 176.8; height, profile sizes and division estimated from photos"}
+  ],
+  "solids": [
+    {"id": "LK balcony beam", "room": "living_kitchen", "bounds": [0, 305, -6, 24, 265, 300], "source": "ЗалСРазмерами.jpg", "certainty": "visible beam; 35 cm drop and 24 cm projection estimated"},
+    {"id": "BR balcony beam", "room": "bedroom", "bounds": [320, 616, -6, 24, 265, 300], "source": "спальнябезразмеров.jpg", "certainty": "visible beam; section estimated"},
+    {"id": "LK transverse beam", "room": "living_kitchen", "bounds": [0, 457, 412, 442, 265, 300], "source": "ЗалСРазмерами.jpg; ЗалИСпальняРазмерыПроход.jpg; ВходКухняСразмерами.jpg", "certainty": "same transverse beam seen in reverse views; position and section provisional"},
+    {"id": "LK kitchen niche header", "room": "living_kitchen", "bounds": [6, 36.7, 546.2, 764.5, 267.5, 300], "source": "КухняНишаСправаСРазмерами.jpg", "certainty": "clear span 218.3, projection 30.7, underside 267.5 measured; apartment placement provisional"},
+    {"id": "LK kitchen niche pier", "room": "living_kitchen", "bounds": [6, 36.7, 534.2, 546.2, 0, 300], "source": "КухняНишаСправаСРазмерами.jpg", "certainty": "projection 30.7 measured; pier width 12 and position provisional"},
+    {"id": "BR niche rear beam", "room": "bedroom", "bounds": [434.5, 610, 475.5, 499.5, 267.5, 300], "source": "спальнябезразмероввидснишей.jpg; спальнясразмерамивидснишей.jpg", "certainty": "visible rear beam; projection and underside estimated, not measured"},
+    {"id": "BR passage lintel", "room": "bedroom", "bounds": [314, 440.5, 420, 432, 225, 300], "source": "СпальняБезРазмеровВход.jpg; спальнясразмерамилеваястенаивход.jpg", "certainty": "visible wall above opening; clear height 225 estimated"},
+    {"id": "BA doorway lintel", "room": "bathroom", "bounds": [451, 463, 584.5, 682, 230, 306], "source": "ваннаспереди.jpg; ваннавидслева.jpg", "certainty": "visible lintel; clear height 230 estimated"},
+    {"id": "BA far upper band", "room": "bathroom", "bounds": [629, 644, 516, 747.5, 275, 306], "source": "ваннаспереди.jpg", "certainty": "concrete upper band visible; 31 cm drop and 3 cm projection provisional"},
+    {"id": "BA left upper band", "room": "bathroom", "bounds": [457, 638, 510, 525, 275, 306], "source": "ваннавидслева.jpg", "certainty": "upper band visible; depth not established; provisional 3 cm projection"}
+  ]
+}

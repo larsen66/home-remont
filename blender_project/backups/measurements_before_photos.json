@@ -1,0 +1,99 @@
+{
+  "units": "cm",
+  "coordinate_note": "X grows right and Y grows down on docs/plan.svg. All room outlines are schematic, not a survey closure.",
+  "assumptions": {
+    "wall_height_cm": 300,
+    "bath_wall_height_cm": 306,
+    "wall_thickness_cm": 12,
+    "floor_thickness_cm": 6,
+    "balcony_depth_cm": 130
+  },
+  "rooms": [
+    {
+      "id": "living_kitchen",
+      "label": "LIVING + KITCHEN",
+      "planned_area_m2": 28.26,
+      "outline_cm": [[0, 0], [305, 0], [305, 426.5], [457, 426.5], [457, 770.5], [0, 770.5]],
+      "outline_status": "schematic; 770.5 cm endpoints and kitchen return are unverified"
+    },
+    {
+      "id": "bedroom",
+      "label": "BEDROOM",
+      "planned_area_m2": 14.51,
+      "outline_cm": [[320, 0], [616, 0], [616, 505.5], [441.5, 505.5], [441.5, 426], [320, 426]],
+      "outline_status": "schematic; modeled niche side is 79.5 cm because reference lines do not close; measured niche depth is 93.5 cm"
+    },
+    {
+      "id": "bathroom",
+      "label": "BATHROOM",
+      "planned_area_m2": 4.45,
+      "outline_cm": [[457, 516], [638, 516], [638, 747.5], [637, 747.5], [637, 747], [559.5, 747], [559.5, 770.5], [457, 770.5]],
+      "outline_status": "from Ванна-чертеж.png; all labeled spans represented; 1 x 0.5 cm closing bend is schematic because source dimensions do not close"
+    }
+  ],
+  "walls": [
+    {"id": "LK left 552", "a": [0, 0], "b": [0, 552], "status": "measured_length", "source": "ЗалСРазмерами.jpg"},
+    {"id": "LK left extension", "a": [0, 552], "b": [0, 770.5], "status": "provisional"},
+    {"id": "LK balcony left pier 70", "a": [0, 0], "b": [70, 0], "status": "measured_length", "source": "ЗалСРазмерами.jpg"},
+    {"id": "LK balcony right pier 58.5", "a": [246.5, 0], "b": [305, 0], "status": "measured_length", "source": "ЗалСРазмерами.jpg"},
+    {"id": "LK right 426.5", "a": [305, 0], "b": [305, 426.5], "status": "measured_length", "source": "ЗалСРазмерами.jpg"},
+    {"id": "LK kitchen return", "a": [305, 426.5], "b": [457, 426.5], "status": "provisional"},
+    {"id": "LK bath approach", "a": [457, 426.5], "b": [457, 516], "status": "provisional"},
+    {"id": "LK entrance left", "a": [0, 770.5], "b": [337, 770.5], "status": "provisional"},
+    {"id": "LK entrance right", "a": [445, 770.5], "b": [457, 770.5], "status": "provisional"},
+    {"id": "BR balcony left pier 50.5", "a": [320, 0], "b": [370.5, 0], "status": "measured_length", "source": "Спальнясразмерами.jpg"},
+    {"id": "BR balcony right pier 68.7", "a": [547.3, 0], "b": [616, 0], "status": "measured_length", "source": "Спальнясразмерами.jpg"},
+    {"id": "BR left 426", "a": [320, 0], "b": [320, 426], "status": "measured_length", "source": "спальнясразмерамилеваястенаивход.jpg"},
+    {"id": "BR right 505.5", "a": [616, 0], "b": [616, 505.5], "status": "measured_length", "source": "Спальнясразмерами.jpg"},
+    {"id": "BR niche side", "a": [441.5, 426], "b": [441.5, 505.5], "status": "provisional"},
+    {"id": "BR niche back", "a": [441.5, 505.5], "b": [616, 505.5], "status": "provisional"},
+    {"id": "BA top 181", "a": [457, 516], "b": [638, 516], "status": "measured_length", "source": "Ванна-чертеж.png"},
+    {"id": "BA right 231.5", "a": [638, 516], "b": [638, 747.5], "status": "measured_length", "source": "Ванна-чертеж.png"},
+    {"id": "BA bottom 102.5", "a": [457, 770.5], "b": [559.5, 770.5], "status": "measured_length", "source": "Ванна-чертеж.png"},
+    {"id": "BA step 23.5", "a": [559.5, 747], "b": [559.5, 770.5], "status": "measured_length", "source": "Ванна-чертеж.png"},
+    {"id": "BA partition straight 77.5", "a": [559.5, 747], "b": [637, 747], "status": "measured_length", "source": "Ванна-чертеж.png"},
+    {"id": "BA bend vertical 0.5 provisional", "a": [637, 747], "b": [637, 747.5], "status": "provisional", "source": "closing offset inferred from 254.5 - 231.5 - 23.5; exact bend not measured", "thickness_cm": 2},
+    {"id": "BA bend horizontal 1 provisional", "a": [637, 747.5], "b": [638, 747.5], "status": "provisional", "source": "closing offset inferred from 181 - 102.5 - 77.5; exact bend not measured", "thickness_cm": 2},
+    {"id": "BA left upper 68.5", "a": [457, 516], "b": [457, 584.5], "status": "measured_length", "source": "Ванна-чертеж.png"},
+    {"id": "BA left lower 88.5", "a": [457, 682], "b": [457, 770.5], "status": "measured_length", "source": "Ванна-чертеж.png"}
+  ],
+  "openings": [
+    {"id": "Living balcony block", "a": [70, 0], "b": [246.5, 0], "status": "derived width 176.5 cm; block edges unverified"},
+    {"id": "Bedroom balcony block", "a": [370.5, 0], "b": [547.3, 0], "status": "derived width 176.8 cm; block edges unverified"},
+    {"id": "Bedroom passage", "a": [320, 426], "b": [441.5, 426], "status": "measured width 121.5 cm; placement schematic"},
+    {"id": "Entrance", "a": [337, 770.5], "b": [445, 770.5], "status": "width and position unknown; schematic only"},
+    {"id": "Bathroom door", "a": [457, 584.5], "b": [457, 682], "status": "derived opening 97.5 cm from 254.5 - 68.5 - 88.5; clear door width unmeasured"}
+  ],
+  "unplaced_measurements": [
+    {"id": "Kitchen niche", "back_width_cm": 218.3, "depth_cm": 30.7, "height_cm": 267.5, "status": "location and depth direction unknown"},
+    {"id": "Bedroom niche", "width_cm": 175.5, "depth_cm": 93.5, "status": "user-confirmed measured depth; its absolute position conflicts with 505.5 - 426 = 79.5 cm"}
+  ],
+  "dimensions": [
+    {"id": "Living balcony width", "a": [0, 0], "b": [305, 0], "offset_cm": -35, "text": "305", "status": "measured"},
+    {"id": "Living balcony left pier", "a": [0, 0], "b": [70, 0], "offset_cm": 28, "text": "70", "status": "measured"},
+    {"id": "Living balcony right pier", "a": [246.5, 0], "b": [305, 0], "offset_cm": 28, "text": "58.5", "status": "measured"},
+    {"id": "Living balcony opening", "a": [70, 0], "b": [246.5, 0], "offset_cm": 32, "text": "~176.5", "status": "derived"},
+    {"id": "Living left 552", "a": [0, 0], "b": [0, 552], "offset_cm": 32, "text": "552", "status": "measured"},
+    {"id": "Living total longitudinal", "a": [0, 0], "b": [0, 770.5], "offset_cm": 75, "text": "770.5 ?", "status": "provisional"},
+    {"id": "Living right 426.5", "a": [305, 0], "b": [305, 426.5], "offset_cm": 35, "text": "426.5", "status": "measured"},
+    {"id": "Living entrance width", "a": [0, 770.5], "b": [457, 770.5], "offset_cm": 38, "text": "457", "status": "measured"},
+    {"id": "Living entrance wall", "a": [0, 770.5], "b": [337, 770.5], "offset_cm": -25, "text": "337", "status": "measured"},
+    {"id": "Bedroom balcony width", "a": [320, 0], "b": [616, 0], "offset_cm": -35, "text": "296", "status": "measured"},
+    {"id": "Bedroom balcony left pier", "a": [320, 0], "b": [370.5, 0], "offset_cm": 28, "text": "50.5", "status": "measured"},
+    {"id": "Bedroom balcony right pier", "a": [547.3, 0], "b": [616, 0], "offset_cm": 28, "text": "68.7", "status": "measured"},
+    {"id": "Bedroom balcony opening", "a": [370.5, 0], "b": [547.3, 0], "offset_cm": 32, "text": "~176.8", "status": "derived"},
+    {"id": "Bedroom left 426", "a": [320, 0], "b": [320, 426], "offset_cm": -55, "text": "426", "status": "measured"},
+    {"id": "Bedroom right 505.5", "a": [616, 0], "b": [616, 505.5], "offset_cm": -35, "text": "505.5", "status": "measured"},
+    {"id": "Bedroom passage", "a": [320, 426], "b": [441.5, 426], "offset_cm": 18, "text": "121.5", "status": "measured"},
+    {"id": "Bedroom niche back", "a": [441.5, 505.5], "b": [616, 505.5], "offset_cm": -18, "text": "175.5*", "status": "measured"},
+    {"id": "Bathroom top", "a": [457, 516], "b": [638, 516], "offset_cm": 28, "text": "181", "status": "measured"},
+    {"id": "Bathroom right", "a": [638, 516], "b": [638, 747.5], "offset_cm": -35, "text": "231.5", "status": "measured"},
+    {"id": "Bathroom left overall", "a": [457, 516], "b": [457, 770.5], "offset_cm": 63, "text": "254.5", "status": "measured"},
+    {"id": "Bathroom left upper", "a": [457, 516], "b": [457, 584.5], "offset_cm": 28, "text": "68.5", "status": "measured"},
+    {"id": "Bathroom door", "a": [457, 584.5], "b": [457, 682], "offset_cm": 28, "text": "~97.5", "status": "derived"},
+    {"id": "Bathroom left lower", "a": [457, 682], "b": [457, 770.5], "offset_cm": 28, "text": "88.5", "status": "measured"},
+    {"id": "Bathroom bottom", "a": [457, 770.5], "b": [559.5, 770.5], "offset_cm": 26, "text": "102.5", "status": "measured"},
+    {"id": "Bathroom partition straight", "a": [559.5, 747], "b": [637, 747], "offset_cm": -20, "text": "77.5", "status": "measured"},
+    {"id": "Bathroom step", "a": [559.5, 747], "b": [559.5, 770.5], "offset_cm": -30, "text": "23.5", "status": "measured"}
+  ]
+}

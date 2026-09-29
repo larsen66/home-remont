@@ -1,0 +1,44 @@
+{
+  "status": "DRAFT - not for purchasing materials",
+  "rooms": [
+    {
+      "id": "living_kitchen",
+      "schematic_floor_area_m2": 28.729,
+      "developer_plan_area_m2": 28.26,
+      "difference_m2": 0.469,
+      "outline_status": "schematic; 770.5 cm endpoints and kitchen return are unverified"
+    },
+    {
+      "id": "bedroom",
+      "schematic_floor_area_m2": 14.005,
+      "developer_plan_area_m2": 14.51,
+      "difference_m2": -0.505,
+      "outline_status": "schematic; niche wall axes span175.5 x93.5 with front at412; 14 cm baseline conflict and 1 cm end-width conflict unresolved; these are not clear finished dimensions"
+    },
+    {
+      "id": "bathroom",
+      "schematic_floor_area_m2": 4.422,
+      "developer_plan_area_m2": 4.45,
+      "difference_m2": -0.028,
+      "outline_status": "from Ванна-чертеж.png; all labeled spans represented; 1 x 0.5 cm closing bend is schematic because source dimensions do not close"
+    }
+  ],
+  "closure_checks_cm": {
+    "bedroom_niche_depth_measured": 93.5,
+    "bedroom_niche_depth_centerline_model": 93.5,
+    "bedroom_niche_depth_from_long_walls": 79.5,
+    "bedroom_depth_discrepancy": 14.0,
+    "bedroom_end_width_measured_parts": 297.0,
+    "bedroom_balcony_width": 296,
+    "bedroom_width_discrepancy": 1.0,
+    "bath_step_measured": 23.5,
+    "bath_vertical_closing_offset": 0.5,
+    "bath_partition_straight_measured": 77.5,
+    "bath_horizontal_closing_offset": 1.0
+  },
+  "photo_features": {
+    "windows": 2,
+    "beams_and_piers": 10,
+    "all_unmeasured_values_provisional": true
+  }
+}

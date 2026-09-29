@@ -1,0 +1,16 @@
+00:00.250  blend            | Read blend: "/Users/dav/Desktop/reprojects/home-remont/blender_project/apartment_draft.blend"
+00:03.375  render           | Saved: '/Users/dav/Desktop/reprojects/home-remont/blender_project/view_3d.png'
+00:03.654  render           | Saved: '/Users/dav/Desktop/reprojects/home-remont/blender_project/plan_2d.png'
+00:04.837  render           | Saved: '/Users/dav/Desktop/reprojects/home-remont/blender_project/bath_3d.png'
+00:04.967  render           | Saved: '/Users/dav/Desktop/reprojects/home-remont/blender_project/bath_2d.png'
+00:08.466  render           | Saved: '/Users/dav/Desktop/reprojects/home-remont/blender_project/bedroom_balcony.png'
+00:11.820  render           | Saved: '/Users/dav/Desktop/reprojects/home-remont/blender_project/living_balcony.png'
+00:14.193  render           | Saved: '/Users/dav/Desktop/reprojects/home-remont/blender_project/bedroom_niche.png'
+00:16.532  render           | Saved: '/Users/dav/Desktop/reprojects/home-remont/blender_project/kitchen_niche.png'
+Info: Saved as "apartment_photos.blend"
+Info: Saved as "apartment_photos.blend"
+Built /Users/dav/Desktop/reprojects/home-remont/blender_project/apartment_photos.blend
+Rendered /Users/dav/Desktop/reprojects/home-remont/blender_project/plan_2d.png, /Users/dav/Desktop/reprojects/home-remont/blender_project/view_3d.png, /Users/dav/Desktop/reprojects/home-remont/blender_project/bath_2d.png, and /Users/dav/Desktop/reprojects/home-remont/blender_project/bath_3d.png
+Blender 5.1.1 (hash b70da489d7f4 built 2026-04-14 01:46:23)
+
+Blender quit

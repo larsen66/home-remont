@@ -1,0 +1,20 @@
+{
+  "file": "/Users/dav/Desktop/reprojects/home-remont/blender_project/apartment_photos.blend",
+  "manual_objects_preserved": 0,
+  "rooms": 3,
+  "balcony_blocks": 2,
+  "passage_clear_at_140cm": true,
+  "kitchen_niche_dimensions_verified": true,
+  "photo_solids": 11,
+  "wall_labels": 30,
+  "preview_files": [
+    "bath_3d.png",
+    "kitchen_niche.png",
+    "bedroom_niche.png",
+    "bath_2d.png",
+    "bedroom_balcony.png",
+    "plan_2d.png",
+    "living_balcony.png",
+    "view_3d.png"
+  ]
+}
