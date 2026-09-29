@@ -1,0 +1,164 @@
+{
+  "boards": [
+    {
+      "key": "living",
+      "board_url": "https://www.pinterest.com/lianapepanyann/%D0%B7%D0%B0%D0%BB-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%81%D1%8B/",
+      "board_name": "Зал референсы",
+      "board_id": "1005288016763014896",
+      "reported_pin_count": 2,
+      "captured_pins": [
+        {
+          "id": "1005287948096816501",
+          "pin_url": "https://www.pinterest.com/pin/1005287948096816501/",
+          "image_url": "https://i.pinimg.com/originals/c7/31/40/c73140b7cc36fdf113a103776fe9369b.jpg",
+          "local_file": "images/living-1005287948096816501.jpg",
+          "width": 1080,
+          "height": 1440,
+          "sha256": "07ec6830d84b4d9414086b1fd005c2aff53c0c870f42dd4af8daecbe3d12a4e1"
+        },
+        {
+          "id": "1005287948096816516",
+          "pin_url": "https://www.pinterest.com/pin/1005287948096816516/",
+          "image_url": "https://i.pinimg.com/originals/9b/02/7e/9b027e90b74f3393d4799b1fb847c036.jpg",
+          "local_file": "images/living-1005287948096816516.jpg",
+          "width": 1080,
+          "height": 1440,
+          "sha256": "cc4208e5883371d990a87f1161ba412319ed19c830aaf466fd874f695f30c07e"
+        }
+      ],
+      "captured_date": "2026-09-29",
+      "method": "Public rendered board and embedded BoardFeedResource; related recommendations excluded"
+    },
+    {
+      "key": "entry",
+      "board_url": "https://www.pinterest.com/lianapepanyann/%D0%BF%D1%80%D0%B8%D1%85%D0%BE%D0%B6%D0%B0%D1%8F-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%81%D1%8B/",
+      "board_name": "Прихожая референсы",
+      "board_id": "1005288016763014893",
+      "reported_pin_count": 4,
+      "captured_pins": [
+        {
+          "id": "1005287948096816519",
+          "pin_url": "https://www.pinterest.com/pin/1005287948096816519/",
+          "image_url": "https://i.pinimg.com/originals/00/ce/95/00ce95af127d1d15a01600419ba4eb5b.jpg",
+          "local_file": "images/entry-1005287948096816519.jpg",
+          "width": 512,
+          "height": 640,
+          "sha256": "fbe12c3d16391361c1e72d303ba2c42cba7f57b2fd6b01d7f4b1f664d4a1f222"
+        },
+        {
+          "id": "1005287948096816572",
+          "pin_url": "https://www.pinterest.com/pin/1005287948096816572/",
+          "image_url": "https://i.pinimg.com/originals/15/a0/7d/15a07d871763ef223eb0e624e8058ae5.jpg",
+          "local_file": "images/entry-1005287948096816572.jpg",
+          "width": 640,
+          "height": 800,
+          "sha256": "5f926d7fefdd2535ca937b24f11d0deab15f5d081390c418aee79fa59b6155aa"
+        },
+        {
+          "id": "1005287948096816393",
+          "pin_url": "https://www.pinterest.com/pin/1005287948096816393/",
+          "image_url": "https://i.pinimg.com/originals/0f/c8/ff/0fc8ff99ec6e680a2e288a6ce2ce47e7.png",
+          "local_file": "images/entry-1005287948096816393.png",
+          "width": 1875,
+          "height": 2500,
+          "sha256": "189ea68f73842634d65c451cd6bc9b738112c22f8a6203dea5aa3eb8e7674c6c"
+        },
+        {
+          "id": "1005287948096816396",
+          "pin_url": "https://www.pinterest.com/pin/1005287948096816396/",
+          "image_url": "https://i.pinimg.com/originals/28/04/97/2804979605032a1be31ff6dd62d7bf3f.png",
+          "local_file": "images/entry-1005287948096816396.png",
+          "width": 720,
+          "height": 720,
+          "sha256": "8f211fb574bbbb4838ea8069b8da02217635d661608d015ed65926fb08233942"
+        }
+      ],
+      "captured_date": "2026-09-29",
+      "method": "Public rendered board and embedded BoardFeedResource; related recommendations excluded"
+    },
+    {
+      "key": "kitchen",
+      "board_url": "https://www.pinterest.com/lianapepanyann/%D0%BA%D1%83%D1%85%D0%BD%D1%8F-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%81%D1%8B/",
+      "board_name": "Кухня референсы",
+      "board_id": "1005288016763014890",
+      "reported_pin_count": 8,
+      "captured_pins": [
+        {
+          "id": "1005287948096816508",
+          "pin_url": "https://www.pinterest.com/pin/1005287948096816508/",
+          "image_url": "https://i.pinimg.com/originals/e4/46/24/e4462431d7e06d3f4b74515846e469c3.jpg",
+          "local_file": "images/kitchen-1005287948096816508.jpg",
+          "width": 1080,
+          "height": 1920,
+          "sha256": "5c5c844e5bb84060de4bfa436def61435fd8c48fe90815f5060c3f083432acc6"
+        },
+        {
+          "id": "1005287948096816509",
+          "pin_url": "https://www.pinterest.com/pin/1005287948096816509/",
+          "image_url": "https://i.pinimg.com/originals/9b/02/7e/9b027e90b74f3393d4799b1fb847c036.jpg",
+          "local_file": "images/kitchen-1005287948096816509.jpg",
+          "width": 1080,
+          "height": 1440,
+          "sha256": "cc4208e5883371d990a87f1161ba412319ed19c830aaf466fd874f695f30c07e"
+        },
+        {
+          "id": "1005287948096816503",
+          "pin_url": "https://www.pinterest.com/pin/1005287948096816503/",
+          "image_url": "https://i.pinimg.com/originals/f7/29/65/f72965a3774193dae6633bc719d19c8a.heic",
+          "local_file": "images/kitchen-1005287948096816503.heic",
+          "width": 4284,
+          "height": 5712,
+          "sha256": "89d38f887f8797676e8a1914b4c7aff4fd72d64d41dd09e0c292e88d9a755ed4",
+          "preview_file": "images/kitchen-1005287948096816503.preview.jpg"
+        },
+        {
+          "id": "1005287948096816611",
+          "pin_url": "https://www.pinterest.com/pin/1005287948096816611/",
+          "image_url": "https://i.pinimg.com/originals/bb/71/10/bb71105720ba9372d94f33ab09c10f74.jpg",
+          "local_file": "images/kitchen-1005287948096816611.jpg",
+          "width": 1440,
+          "height": 1440,
+          "sha256": "99b4a488e00e70e12db9fc52a78e3ba7523adefdaa31219d4a7f41eb1ded8d67"
+        },
+        {
+          "id": "1005287948096816504",
+          "pin_url": "https://www.pinterest.com/pin/1005287948096816504/",
+          "image_url": "https://i.pinimg.com/originals/39/b6/11/39b61197f253dfc902c89b6e0fb9948a.jpg",
+          "local_file": "images/kitchen-1005287948096816504.jpg",
+          "width": 960,
+          "height": 1200,
+          "sha256": "9b5e4df28d3ce4e73ebfef7aa7344cab4844a1388f32f74ee5a506bd06cbebff"
+        },
+        {
+          "id": "1005287948096816381",
+          "pin_url": "https://www.pinterest.com/pin/1005287948096816381/",
+          "image_url": "https://i.pinimg.com/originals/99/a3/f0/99a3f02ea0995de834dc519a78521814.png",
+          "local_file": "images/kitchen-1005287948096816381.png",
+          "width": 1152,
+          "height": 2048,
+          "sha256": "25536bac0185cfe3e2991786177d0547526890127a323ee445e2e466d1e11cdc"
+        },
+        {
+          "id": "1005287948096816375",
+          "pin_url": "https://www.pinterest.com/pin/1005287948096816375/",
+          "image_url": "https://i.pinimg.com/originals/41/d3/32/41d332be1dff0b814dcbd65b6f1957d2.jpg",
+          "local_file": "images/kitchen-1005287948096816375.jpg",
+          "width": 960,
+          "height": 1280,
+          "sha256": "4854b360a6842d0cbacbbbf8fcc11b1a13765ab0e357e5ed4b746d6fb54989dc"
+        },
+        {
+          "id": "1005287948096816380",
+          "pin_url": "https://www.pinterest.com/pin/1005287948096816380/",
+          "image_url": "https://i.pinimg.com/originals/f9/8d/1a/f98d1ada55a0c704ec67f7c087759ac0.jpg",
+          "local_file": "images/kitchen-1005287948096816380.jpg",
+          "width": 1080,
+          "height": 1346,
+          "sha256": "175a181d900980e94c32ca24f2ae9c67e547580205ecd169ed53ef9799e9b530"
+        }
+      ],
+      "captured_date": "2026-09-29",
+      "method": "Public rendered board and embedded BoardFeedResource; related recommendations excluded"
+    }
+  ]
+}

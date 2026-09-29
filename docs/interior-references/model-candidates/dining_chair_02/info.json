@@ -1,0 +1,48 @@
+{
+  "type": 2,
+  "tags": [
+    "modern",
+    "chair",
+    "seat",
+    "dining",
+    "fancy",
+    "leather"
+  ],
+  "name": "Dining Chair 02",
+  "categories": [
+    "furniture",
+    "seating"
+  ],
+  "authors": {
+    "James Ray Cock": "All"
+  },
+  "date_published": 1623767234,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 22013,
+  "texel_density": 5968.990589289396,
+  "dimensions": [
+    433.5707724094391,
+    576.4201134443283,
+    973.3776897192001
+  ],
+  "files_hash": "b99b2f907424bbc55b77541f9616fa9da770dcde",
+  "description": "Free 8K model: modern dining chair with tufted brown leather, high cushioned back and seat, dark wooden legs - fancy, comfy and ideal for elegant interior scenes.",
+  "category_id": "11261ec6-df2b-5150-9904-684d2558070d",
+  "category": "Furniture/Seating/Chairs",
+  "attributes": {
+    "condition": [
+      "clean"
+    ],
+    "material": [
+      "leather",
+      "wood"
+    ]
+  },
+  "img_version": "efb5662a",
+  "download_count": 16533,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dining_chair_02.png?width=256&height=256&v=efb5662a"
+}

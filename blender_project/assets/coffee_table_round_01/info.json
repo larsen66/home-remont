@@ -1,0 +1,51 @@
+{
+  "donated": true,
+  "type": 2,
+  "tags": [
+    "modern",
+    "marble",
+    "tea",
+    "coffee",
+    "metal",
+    "sleek",
+    "contemporary",
+    "cocktail"
+  ],
+  "name": "Coffee Table Round 01",
+  "categories": [
+    "furniture",
+    "table"
+  ],
+  "authors": {
+    "Ulan Cabanilla": "All"
+  },
+  "date_published": 1637884800,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 4044,
+  "texel_density": 3902.116327181834,
+  "dimensions": [
+    1301.3009428977966,
+    1301.3015985488892,
+    491.0094439983368
+  ],
+  "files_hash": "111d2440084dcd01332ef4f7a4008fc5a41e413b",
+  "description": "Free 8K model - round coffee table with white marble top and looping metal legs; sleek contemporary silhouette with subtle veining and matte metallic finish.",
+  "category_id": "14a9e15a-6ae7-5665-8142-d5fbda6b6a75",
+  "category": "Furniture/Tables/Coffee Tables",
+  "attributes": {
+    "condition": [
+      "clean"
+    ],
+    "material": [
+      "stone",
+      "metal"
+    ]
+  },
+  "img_version": "637507a6",
+  "download_count": 27708,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/coffee_table_round_01.png?width=256&height=256&v=637507a6"
+}

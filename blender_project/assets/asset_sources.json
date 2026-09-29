@@ -1,0 +1,44 @@
+[
+  {
+    "id": "sofa_three_seat",
+    "name": "Sofa Three Seat",
+    "author": "3D Assets; contributor reports AI-assisted creation",
+    "page": "https://3dassets.dev/assets/bedroom-and-living-room-furniture-sofa-three-seat-6be9b44b",
+    "download": "https://cdn.3dassets.dev/assets/38778/v1/model.glb",
+    "license": "CC0 1.0",
+    "license_evidence": "Asset page labels model CC0 1.0 Universal",
+    "file": "sofa_three_seat/model.glb",
+    "match": "Medium: straight padded sofa and square arms; geometry is simpler than the Pinterest sofa",
+    "changes": "Fit to 230 x 86 x 84 cm; cream upholstery; charcoal frame accents",
+    "sha256": "a7c5c20b00ce057815785a9bd393707de0bc84c9926278cac0882b369ab2b4d7",
+    "checked_date": "2026-09-29"
+  },
+  {
+    "id": "upholstered_dining_chair",
+    "name": "Upholstered dining chair, accent",
+    "author": "3D Assets; contributor reports AI-assisted creation",
+    "page": "https://3dassets.dev/assets/restaurant-kitchen-and-dining-dining-chair-accent-40f75aa7",
+    "download": "https://cdn.3dassets.dev/assets/16509/v1/model.glb",
+    "license": "CC0 1.0",
+    "license_evidence": "Asset page labels model CC0 1.0 Universal",
+    "file": "upholstered_dining_chair/model.glb",
+    "match": "Medium: padded seat/back with dark legs; not an exact match to curved reference chairs",
+    "changes": "Four instances; cream upholstery and dark frame; concept height 89 cm",
+    "sha256": "420f701d28c091d215a50fb8a26a2758012dbaca7cc5184d75fe494abc69c603",
+    "checked_date": "2026-09-29"
+  },
+  {
+    "id": "coffee_table_round_01",
+    "name": "Coffee Table Round 01",
+    "author": "Ulan Cabanilla / Poly Haven",
+    "page": "https://polyhaven.com/a/coffee_table_round_01",
+    "download": "https://api.polyhaven.com/files/coffee_table_round_01",
+    "license": "CC0 1.0",
+    "license_evidence": "https://polyhaven.com/license",
+    "file": "coffee_table_round_01/coffee_table_round_01_1k.gltf",
+    "match": "Medium: round top and metal legs; leg shape differs from the Pinterest reference",
+    "changes": "Fit to diameter 62 cm, height 43 cm; charcoal material",
+    "sha256": "58fe785584f8999f760e590b04ce74f83962d42c9440ab9415910f63a31165dc",
+    "checked_date": "2026-09-29"
+  }
+]

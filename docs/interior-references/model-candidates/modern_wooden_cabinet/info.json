@@ -1,0 +1,52 @@
+{
+  "donated": true,
+  "name": "Modern Wooden Cabinet",
+  "categories": [
+    "furniture",
+    "table"
+  ],
+  "type": 2,
+  "tags": [
+    "cabinet",
+    "wood",
+    "modern",
+    "minimalist",
+    "interrior",
+    "living room",
+    "contemporary",
+    "design"
+  ],
+  "authors": {
+    "Patrik Pangerl": "All"
+  },
+  "info": null,
+  "staging": null,
+  "date_published": 1690934400,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 24976,
+  "texel_density": 1684.9824044896511,
+  "dimensions": [
+    2440.0004148483276,
+    520.0000107288361,
+    680.1425069570541
+  ],
+  "files_hash": "ef2d266b0823d230f465b29bb32b110b4c71b3b2",
+  "description": "Free 8K model of a modern wooden cabinet with dark frame, vertical light-wood slatted curved doors on slim metal legs, minimalist contemporary design.",
+  "category_id": "14debc4f-6ceb-597a-a824-8de173aa95a9",
+  "category": "Furniture/Storage Furniture/Cabinets & Cupboards",
+  "attributes": {
+    "condition": [
+      "clean"
+    ],
+    "material": [
+      "wood",
+      "metal"
+    ]
+  },
+  "img_version": "dbf3e77b",
+  "download_count": 17027,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/modern_wooden_cabinet.png?width=256&height=256&v=dbf3e77b"
+}

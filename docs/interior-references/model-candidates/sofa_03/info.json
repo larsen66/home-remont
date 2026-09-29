@@ -1,0 +1,56 @@
+{
+  "type": 2,
+  "tags": [
+    "vintage",
+    "chair",
+    "couch",
+    "seat",
+    "fancy",
+    "mansion",
+    "manor",
+    "victorian",
+    "antique",
+    "leather"
+  ],
+  "name": "Sofa 03",
+  "categories": [
+    "furniture",
+    "seating"
+  ],
+  "authors": {
+    "Fran Calvente": "All"
+  },
+  "date_published": 1632441600,
+  "staging": null,
+  "sponsors": [
+    "9716107"
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 8004,
+  "texel_density": 2473.260796497094,
+  "dimensions": [
+    2731.17733001709,
+    925.0842034816742,
+    1118.2640366605483
+  ],
+  "files_hash": "6304a0e5c6e96371ba5b427ce5baa763f1405e2c",
+  "description": "Free 8K model of a vintage Victorian leather sofa with carved wooden frame, scrolled arms, patterned fringe cushions and rich antique brown finish.",
+  "category_id": "a995f351-c031-54f6-b317-dc5928df17a3",
+  "category": "Furniture/Seating/Sofas & Couches",
+  "attributes": {
+    "condition": [
+      "worn"
+    ],
+    "material": [
+      "leather",
+      "wood",
+      "fabric"
+    ]
+  },
+  "img_version": "8e75f00a",
+  "download_count": 56962,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sofa_03.png?width=256&height=256&v=8e75f00a"
+}

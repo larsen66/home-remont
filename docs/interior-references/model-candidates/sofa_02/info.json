@@ -1,0 +1,53 @@
+{
+  "type": 2,
+  "tags": [
+    "wood",
+    "furniture",
+    "chair",
+    "prop",
+    "couch",
+    "leather",
+    "fabric"
+  ],
+  "date_published": 1593521418,
+  "name": "Sofa 02",
+  "old_id": 44,
+  "categories": [
+    "furniture",
+    "seating"
+  ],
+  "authors": {
+    "Kirill Sannikov": "All"
+  },
+  "sponsors": [
+    "9716107"
+  ],
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 2728,
+  "texel_density": 1389.082945945206,
+  "dimensions": [
+    1807.1673512458801,
+    817.7513778209686,
+    709.4888985157013
+  ],
+  "files_hash": "d7e2bb41e7bca3c320b837961bd7f71a064b6fe9",
+  "description": "Free 4K model of a tufted leather sofa with carved wood frame - elegant vintage couch/prop with realistic leather and fabric cushions.",
+  "category_id": "a995f351-c031-54f6-b317-dc5928df17a3",
+  "category": "Furniture/Seating/Sofas & Couches",
+  "attributes": {
+    "condition": [
+      "worn"
+    ],
+    "material": [
+      "leather",
+      "wood",
+      "fabric"
+    ]
+  },
+  "img_version": "5c7e6c29",
+  "download_count": 84853,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sofa_02.png?width=256&height=256&v=5c7e6c29"
+}

@@ -1,0 +1,50 @@
+{
+  "donated": true,
+  "type": 2,
+  "tags": [
+    "contemporary",
+    "modern",
+    "rectangular",
+    "stone",
+    "wood",
+    "deco",
+    "clean"
+  ],
+  "name": "Modern Coffee Table 02",
+  "categories": [
+    "furniture",
+    "table"
+  ],
+  "authors": {
+    "Amin": "All"
+  },
+  "staging": null,
+  "date_published": 1642118400,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 13645,
+  "texel_density": 3404.053138423797,
+  "dimensions": [
+    1199.1113424301147,
+    1199.6567845344543,
+    369.2496716976166
+  ],
+  "files_hash": "d4792d6f4ea4eb10335816eaac4b6e1a9bcd1b36",
+  "description": "Free 8K model of a contemporary rectangular coffee table with a dark stone base and intricate concentric wooden geometric inlay, deco-inspired, clean finish.",
+  "category_id": "14a9e15a-6ae7-5665-8142-d5fbda6b6a75",
+  "category": "Furniture/Tables/Coffee Tables",
+  "attributes": {
+    "condition": [
+      "clean"
+    ],
+    "material": [
+      "stone",
+      "wood"
+    ]
+  },
+  "img_version": "e3394f72",
+  "download_count": 9634,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/modern_coffee_table_02.png?width=256&height=256&v=e3394f72"
+}

@@ -1,0 +1,50 @@
+{
+  "type": 2,
+  "name": "Round Wooden Table 02",
+  "categories": [
+    "furniture",
+    "table"
+  ],
+  "tags": [
+    "antique",
+    "vintage",
+    "wooden",
+    "traditional",
+    "circle",
+    "lounge",
+    "dining"
+  ],
+  "authors": {
+    "Ulan Cabanilla": "All"
+  },
+  "donated": true,
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 4254,
+  "texel_density": 1873.5038461661652,
+  "dimensions": [
+    796.1780428886414,
+    796.1780428886414,
+    746.0266395536621
+  ],
+  "date_published": 1742774400,
+  "staging": null,
+  "files_hash": "f21803c204b5835f887cdc37016c77a16fa1d8fb",
+  "description": "Free 4K round wooden table with dark-stained top, paneled pedestal, slim metal legs and worn antique patina, exuding traditional, vintage character.",
+  "category_id": "dfe0e21f-ebb5-57e6-b76e-1b2c58bae1a3",
+  "category": "Furniture/Tables/Dining Tables",
+  "attributes": {
+    "condition": [
+      "worn"
+    ],
+    "material": [
+      "wood",
+      "metal"
+    ]
+  },
+  "img_version": "f6193089",
+  "download_count": 9463,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/round_wooden_table_02.png?width=256&height=256&v=f6193089"
+}

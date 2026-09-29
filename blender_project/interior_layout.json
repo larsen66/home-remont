@@ -1,0 +1,20 @@
+{
+  "status": "Concept layout, not a furniture manufacturing or purchase plan",
+  "units": "metres; X right, Y toward balcony, Z up",
+  "collection": "ИНТЕРЬЕР - скрыть всё",
+  "sofa": {"position": [0.54, -2.35, 0.022], "dimensions": [0.86, 2.30, 0.84], "rotation_deg": 90},
+  "coffee_table": {"position": [1.56, -2.20, 0.04], "dimensions": [0.62, 0.62, 0.43]},
+  "dining_table": {"position": [1.95, -4.65, 0.765], "dimensions": [1.25, 0.80, 0.055]},
+  "chairs": [
+    {"position": [1.12, -4.65, 0.022], "rotation_deg": 90},
+    {"position": [2.78, -4.65, 0.022], "rotation_deg": -90},
+    {"position": [1.95, -3.98, 0.022], "rotation_deg": 0},
+    {"position": [1.95, -5.32, 0.022], "rotation_deg": 180}
+  ],
+  "notes": [
+    "Kitchen niche position and entrance door swing remain provisional in the source model.",
+    "Dining chairs are shown in a tucked everyday position; pulled-out clearances need on-site confirmation.",
+    "Furniture dimensions are chosen for this concept, not manufacturer product specifications.",
+    "Only living room, kitchen and entry are furnished; bedroom and bathroom remain source geometry."
+  ]
+}
